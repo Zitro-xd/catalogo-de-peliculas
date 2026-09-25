@@ -1,0 +1,8 @@
+{
+  "name": "catalogo de peliculas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d8adfa40"
+}

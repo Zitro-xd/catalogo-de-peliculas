@@ -6,7 +6,8 @@ import { PeliculaService } from '../services/pelicula.service';
 @Component({
   selector: 'app-detalle',
   templateUrl: './detalle.page.html',
-  styleUrls: ['./detalle.page.scss']
+  styleUrls: ['./detalle.page.scss'],
+  standalone: false
 })
 export class DetallePage implements OnInit {
 
